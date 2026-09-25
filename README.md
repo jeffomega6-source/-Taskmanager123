@@ -2,7 +2,7 @@
 
 Project Code: WST21-PM-2026-SF
 Student Name: Jeff Omega, BSIT, Sec 11
-Course & Year: BSIT 2rd Year / Section 11
+Course & Year: BSIT 2nd Year / Section 11
 Database Used: MySQL
 
 Features:
