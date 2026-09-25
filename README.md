@@ -11,3 +11,7 @@ Features:
 - Edit Task
 - Delete Task
 - Update Status
+- 
+Laravel: 12.69.2
+PHP : 8.0.30
+Composer: 2.10.3
